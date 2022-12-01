@@ -3447,3 +3447,8 @@ object {
 	margin-top: 30px;
 	}
 }
+
+/** Static site overrides and fixes **/
+#top-search-button {
+	display: none;
+}
